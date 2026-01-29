@@ -3,10 +3,5 @@
     "titulo": "História",
     "slug": "historia",
     "arquivo": "artigos/historia.md"
-  },
-  {
-    "titulo": "Ciência",
-    "slug": "ciencia",
-    "arquivo": "artigos/ciencia.md"
   }
 ]
