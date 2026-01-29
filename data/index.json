@@ -8,7 +8,7 @@
       "id": 1,
       "titulo": "História",
       "slug": "historia",
-      "categoria": "historia",
+      "categoria": "teste",
       "arquivo": "artigo/teste.md",
       "resumo": "Introdução à história"
     },
