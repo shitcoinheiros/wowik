@@ -1,16 +1,24 @@
-[
-  {
-    "titulo": "História",
-    "slug": "historia",
-    "arquivo": "artigos/historia.md"
-  }
-]
-
-[
-  {
-    "titulo": "História",
-    "slug": "historia",
-    "arquivo": "artigos/teste.md"
-  }
-]
-
+{
+  "categorias": [
+    { "id": "historia", "nome": "História" },
+    { "id": "ciencia", "nome": "Ciência" }
+  ],
+  "artigos": [
+    {
+      "id": 1,
+      "titulo": "História",
+      "slug": "historia",
+      "categoria": "historia",
+      "arquivo": "artigos/historia.md",
+      "resumo": "Introdução à história"
+    },
+    {
+      "id": 2,
+      "titulo": "História do Brasil",
+      "slug": "historia-do-brasil",
+      "categoria": "historia",
+      "arquivo": "artigos/historia-brasil.md",
+      "resumo": "História do Brasil"
+    }
+  ]
+}
