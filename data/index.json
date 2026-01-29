@@ -3,6 +3,14 @@
     "titulo": "História",
     "slug": "historia",
     "arquivo": "artigos/historia.md"
-    "arquivo": "artigos/teste.md"
   }
 ]
+
+[
+  {
+    "titulo": "História",
+    "slug": "historia",
+    "arquivo": "teste/historia.md"
+  }
+]
+
